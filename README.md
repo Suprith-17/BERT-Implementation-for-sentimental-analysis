@@ -1,6 +1,4 @@
-# BERT-Implementation-for-sentimental-analysis
-
-# BERT for Search Query Optimization 🧠✨
+# BERT-Implementation-for-sentimental-analysis🧠✨
 
 BERT (Bidirectional Encoder Representations from Transformers) is currently being used at Google to optimize the interpretation of user search queries. This powerful model excels at various functions that enhance user experience and understanding. 
 
